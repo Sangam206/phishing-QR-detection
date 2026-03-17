@@ -15,6 +15,3 @@ env/
 venv/
 .vs/
 .vscode/
-
-# Pickle files
-*.pkl
